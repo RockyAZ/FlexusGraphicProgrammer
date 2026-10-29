@@ -38,7 +38,7 @@ Shader "Prototype/NoiseWave_VertexNormalCalculation_02"
             #pragma vertex vert
             #pragma fragment frag
 
-            #include "./Includes/PearlShading.hlsl"
+            #include "../Shaders/Includes/PearlShading.hlsl"
 
             struct Attributes
             {
